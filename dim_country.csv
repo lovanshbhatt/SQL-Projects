@@ -1,0 +1,365 @@
+﻿country_code,country_name,continent,income_groupincome_group,regime_type,un_sdg_region
+ABW,Aruba,North America,High income,0,Latin America and Caribbean
+AGO,Angola,Africa,Low income,Closed Autocracy,Sub-Saharan Africa
+AGO,Angola,Africa,Lower-middle income,Closed Autocracy,Sub-Saharan Africa
+AGO,Angola,Africa,Lower-middle income,Electoral Autocracy,Sub-Saharan Africa
+AGO,Angola,Africa,Upper-middle income,Electoral Autocracy,Sub-Saharan Africa
+ALB,Albania,Europe,Lower-middle income,Electoral Autocracy,Europe and Northern America
+ALB,Albania,Europe,Lower-middle income,Electoral Democracy,Europe and Northern America
+ALB,Albania,Europe,Upper-middle income,Electoral Democracy,Europe and Northern America
+ARE,United Arab Emirates,Asia,High income,Closed Autocracy,Northern Africa and Western Asia
+ARG,Argentina,South America,Upper-middle income,Electoral Democracy,Latin America and Caribbean
+ARG,Argentina,South America,High income,Electoral Democracy,Latin America and Caribbean
+ARM,Armenia,Asia,Low income,Electoral Autocracy,Northern Africa and Western Asia
+ARM,Armenia,Asia,Lower-middle income,Electoral Autocracy,Northern Africa and Western Asia
+ATG,Antigua and Barbuda,North America,Upper-middle income,0,Latin America and Caribbean
+ATG,Antigua and Barbuda,North America,High income,0,Latin America and Caribbean
+AUS,Australia,Oceania,High income,Liberal Democracy,Oceania
+AUT,Austria,Europe,High income,Liberal Democracy,Europe and Northern America
+AZE,Azerbaijan,Asia,Low income,Electoral Autocracy,Northern Africa and Western Asia
+AZE,Azerbaijan,Asia,Lower-middle income,Electoral Autocracy,Northern Africa and Western Asia
+AZE,Azerbaijan,Asia,Upper-middle income,Electoral Autocracy,Northern Africa and Western Asia
+BDI,Burundi,Africa,Low income,Closed Autocracy,Sub-Saharan Africa
+BDI,Burundi,Africa,Low income,Electoral Autocracy,Sub-Saharan Africa
+BEL,Belgium,Europe,High income,Liberal Democracy,Europe and Northern America
+BEN,Benin,Africa,Low income,Electoral Democracy,Sub-Saharan Africa
+BEN,Benin,Africa,Low income,Liberal Democracy,Sub-Saharan Africa
+BFA,Burkina Faso,Africa,Low income,Electoral Democracy,Sub-Saharan Africa
+BFA,Burkina Faso,Africa,Low income,Electoral Autocracy,Sub-Saharan Africa
+BGD,Bangladesh,Asia,Low income,Electoral Democracy,Central and Southern Asia
+BGD,Bangladesh,Asia,Low income,Electoral Autocracy,Central and Southern Asia
+BGD,Bangladesh,Asia,Low income,Closed Autocracy,Central and Southern Asia
+BGD,Bangladesh,Asia,Lower-middle income,Electoral Autocracy,Central and Southern Asia
+BGR,Bulgaria,Europe,Lower-middle income,Electoral Democracy,Europe and Northern America
+BGR,Bulgaria,Europe,Upper-middle income,Electoral Democracy,Europe and Northern America
+BHR,Bahrain,Asia,Upper-middle income,Closed Autocracy,Northern Africa and Western Asia
+BHR,Bahrain,Asia,High income,Closed Autocracy,Northern Africa and Western Asia
+BHS,"Bahamas, The",North America,High income,0,Latin America and Caribbean
+BIH,Bosnia and Herzegovina,Europe,Lower-middle income,Electoral Democracy,Europe and Northern America
+BIH,Bosnia and Herzegovina,Europe,Upper-middle income,Electoral Democracy,Europe and Northern America
+BLR,Belarus,Europe,Lower-middle income,Electoral Autocracy,Europe and Northern America
+BLR,Belarus,Europe,Upper-middle income,Electoral Autocracy,Europe and Northern America
+BLZ,Belize,North America,Lower-middle income,0,Latin America and Caribbean
+BLZ,Belize,North America,Upper-middle income,0,Latin America and Caribbean
+BOL,Bolivia,South America,Lower-middle income,Electoral Democracy,Latin America and Caribbean
+BRA,Brazil,South America,Upper-middle income,Electoral Democracy,Latin America and Caribbean
+BRA,Brazil,South America,Lower-middle income,Electoral Democracy,Latin America and Caribbean
+BRB,Barbados,North America,High income,Electoral Democracy,Latin America and Caribbean
+BRB,Barbados,North America,Upper-middle income,Electoral Democracy,Latin America and Caribbean
+BRB,Barbados,North America,High income,Liberal Democracy,Latin America and Caribbean
+BRN,Brunei Darussalam,Asia,High income,0,Eastern and South-Eastern Asia
+BTN,Bhutan,Asia,Low income,Closed Autocracy,Central and Southern Asia
+BTN,Bhutan,Asia,Lower-middle income,Closed Autocracy,Central and Southern Asia
+BTN,Bhutan,Asia,Lower-middle income,Electoral Autocracy,Central and Southern Asia
+BTN,Bhutan,Asia,Lower-middle income,Electoral Democracy,Central and Southern Asia
+BWA,Botswana,Africa,Upper-middle income,Electoral Democracy,Sub-Saharan Africa
+BWA,Botswana,Africa,Upper-middle income,Liberal Democracy,Sub-Saharan Africa
+CAF,Central African Republic,Africa,Low income,Electoral Autocracy,Sub-Saharan Africa
+CAF,Central African Republic,Africa,Low income,Closed Autocracy,Sub-Saharan Africa
+CAN,Canada,North America,High income,Liberal Democracy,Europe and Northern America
+CHE,Switzerland,Europe,High income,Liberal Democracy,Europe and Northern America
+CHL,Chile,South America,Upper-middle income,Liberal Democracy,Latin America and Caribbean
+CHL,Chile,South America,High income,Liberal Democracy,Latin America and Caribbean
+CHN,China,Asia,Lower-middle income,Closed Autocracy,Eastern and South-Eastern Asia
+CHN,China,Asia,Upper-middle income,Closed Autocracy,Eastern and South-Eastern Asia
+CIV,Cote d'Ivoire,Africa,Low income,Electoral Autocracy,Sub-Saharan Africa
+CIV,Cote d'Ivoire,Africa,Lower-middle income,Electoral Autocracy,Sub-Saharan Africa
+CIV,Cote d'Ivoire,Africa,Lower-middle income,Electoral Democracy,Sub-Saharan Africa
+CMR,Cameroon,Africa,Low income,Electoral Autocracy,Sub-Saharan Africa
+CMR,Cameroon,Africa,Lower-middle income,Electoral Autocracy,Sub-Saharan Africa
+COD,"Congo, Dem. Rep.",Africa,Low income,Closed Autocracy,Sub-Saharan Africa
+COD,"Congo, Dem. Rep.",Africa,Low income,Electoral Autocracy,Sub-Saharan Africa
+COG,"Congo, Rep.",Africa,Low income,Closed Autocracy,Sub-Saharan Africa
+COG,"Congo, Rep.",Africa,Low income,Electoral Autocracy,Sub-Saharan Africa
+COG,"Congo, Rep.",Africa,Lower-middle income,Electoral Autocracy,Sub-Saharan Africa
+COL,Colombia,South America,Lower-middle income,Electoral Democracy,Latin America and Caribbean
+COL,Colombia,South America,Upper-middle income,Electoral Democracy,Latin America and Caribbean
+COM,Comoros,Africa,Low income,Closed Autocracy,Sub-Saharan Africa
+COM,Comoros,Africa,Low income,Electoral Autocracy,Sub-Saharan Africa
+COM,Comoros,Africa,Low income,Electoral Democracy,Sub-Saharan Africa
+CPV,Cabo Verde,Africa,Lower-middle income,Electoral Democracy,Sub-Saharan Africa
+CRI,Costa Rica,North America,Upper-middle income,Liberal Democracy,Latin America and Caribbean
+CUB,Cuba,North America,Lower-middle income,Closed Autocracy,Latin America and Caribbean
+CUB,Cuba,North America,Upper-middle income,Closed Autocracy,Latin America and Caribbean
+CYP,Cyprus,Europe,High income,Electoral Democracy,Northern Africa and Western Asia
+CYP,Cyprus,Europe,High income,Liberal Democracy,Northern Africa and Western Asia
+CZE,Czech Republic,Europe,Upper-middle income,Liberal Democracy,Europe and Northern America
+CZE,Czech Republic,Europe,High income,Liberal Democracy,Europe and Northern America
+DEU,Germany,Europe,High income,Liberal Democracy,Europe and Northern America
+DMA,Dominica,North America,Upper-middle income,0,Latin America and Caribbean
+DNK,Denmark,Europe,High income,Liberal Democracy,Europe and Northern America
+DOM,Dominican Republic,North America,Lower-middle income,Electoral Democracy,Latin America and Caribbean
+DOM,Dominican Republic,North America,Upper-middle income,Electoral Democracy,Latin America and Caribbean
+DZA,Algeria,Africa,Lower-middle income,Electoral Autocracy,Northern Africa and Western Asia
+DZA,Algeria,Africa,Upper-middle income,Electoral Autocracy,Northern Africa and Western Asia
+ECU,Ecuador,South America,Lower-middle income,Electoral Democracy,Latin America and Caribbean
+ECU,Ecuador,South America,Upper-middle income,Electoral Democracy,Latin America and Caribbean
+EGY,"Egypt, Arab Rep.",Africa,Lower-middle income,Electoral Autocracy,Northern Africa and Western Asia
+EGY,"Egypt, Arab Rep.",Africa,Lower-middle income,Closed Autocracy,Northern Africa and Western Asia
+ERI,Eritrea,Africa,Low income,Closed Autocracy,Sub-Saharan Africa
+ESP,Spain,Europe,High income,Liberal Democracy,Europe and Northern America
+EST,Estonia,Europe,Upper-middle income,Liberal Democracy,Europe and Northern America
+EST,Estonia,Europe,High income,Liberal Democracy,Europe and Northern America
+ETH,Ethiopia,Africa,Low income,Electoral Autocracy,Sub-Saharan Africa
+FIN,Finland,Europe,High income,Liberal Democracy,Europe and Northern America
+FJI,Fiji,Oceania,Lower-middle income,Closed Autocracy,Oceania
+FJI,Fiji,Oceania,Lower-middle income,Electoral Democracy,Oceania
+FJI,Fiji,Oceania,Lower-middle income,Electoral Autocracy,Oceania
+FJI,Fiji,Oceania,Upper-middle income,Closed Autocracy,Oceania
+FJI,Fiji,Oceania,Upper-middle income,Electoral Autocracy,Oceania
+FRA,France,Europe,High income,Liberal Democracy,Europe and Northern America
+GAB,Gabon,Africa,Upper-middle income,Electoral Autocracy,Sub-Saharan Africa
+GBR,United Kingdom,Europe,High income,Liberal Democracy,Europe and Northern America
+GEO,Georgia,Asia,Low income,Electoral Autocracy,Northern Africa and Western Asia
+GEO,Georgia,Asia,Lower-middle income,Electoral Autocracy,Northern Africa and Western Asia
+GEO,Georgia,Asia,Lower-middle income,Electoral Democracy,Northern Africa and Western Asia
+GEO,Georgia,Asia,Upper-middle income,Electoral Democracy,Northern Africa and Western Asia
+GHA,Ghana,Africa,Low income,Electoral Democracy,Sub-Saharan Africa
+GHA,Ghana,Africa,Low income,Liberal Democracy,Sub-Saharan Africa
+GHA,Ghana,Africa,Lower-middle income,Liberal Democracy,Sub-Saharan Africa
+GHA,Ghana,Africa,Lower-middle income,Electoral Democracy,Sub-Saharan Africa
+GMB,"Gambia, The",Africa,Low income,Electoral Autocracy,Sub-Saharan Africa
+GMB,"Gambia, The",Africa,Low income,Electoral Democracy,Sub-Saharan Africa
+GNB,Guinea-Bissau,Africa,Low income,Electoral Autocracy,Sub-Saharan Africa
+GNB,Guinea-Bissau,Africa,Low income,Closed Autocracy,Sub-Saharan Africa
+GNB,Guinea-Bissau,Africa,Low income,Electoral Democracy,Sub-Saharan Africa
+GNQ,Equatorial Guinea,Africa,Lower-middle income,Electoral Autocracy,Sub-Saharan Africa
+GNQ,Equatorial Guinea,Africa,Low income,Electoral Autocracy,Sub-Saharan Africa
+GNQ,Equatorial Guinea,Africa,Upper-middle income,Electoral Autocracy,Sub-Saharan Africa
+GNQ,Equatorial Guinea,Africa,High income,Electoral Autocracy,Sub-Saharan Africa
+GRC,Greece,Europe,High income,Liberal Democracy,Europe and Northern America
+GRC,Greece,Europe,High income,Electoral Democracy,Europe and Northern America
+GTM,Guatemala,North America,Lower-middle income,Electoral Democracy,Latin America and Caribbean
+GUY,Guyana,South America,Lower-middle income,Electoral Democracy,Latin America and Caribbean
+GUY,Guyana,South America,Upper-middle income,Electoral Democracy,Latin America and Caribbean
+HKG,"Hong Kong SAR, China",Asia,High income,Closed Autocracy,Eastern and South-Eastern Asia
+HND,Honduras,North America,Lower-middle income,Electoral Democracy,Latin America and Caribbean
+HND,Honduras,North America,Lower-middle income,Electoral Autocracy,Latin America and Caribbean
+HRV,Croatia,Europe,Upper-middle income,Electoral Democracy,Europe and Northern America
+HRV,Croatia,Europe,High income,Electoral Democracy,Europe and Northern America
+HTI,Haiti,North America,Low income,Electoral Autocracy,Latin America and Caribbean
+HTI,Haiti,North America,Low income,Closed Autocracy,Latin America and Caribbean
+HUN,Hungary,Europe,Upper-middle income,Liberal Democracy,Europe and Northern America
+HUN,Hungary,Europe,High income,Liberal Democracy,Europe and Northern America
+HUN,Hungary,Europe,High income,Electoral Democracy,Europe and Northern America
+HUN,Hungary,Europe,Upper-middle income,Electoral Democracy,Europe and Northern America
+HUN,Hungary,Europe,High income,Electoral Autocracy,Europe and Northern America
+IDN,Indonesia,Asia,Low income,Electoral Democracy,Eastern and South-Eastern Asia
+IDN,Indonesia,Asia,Lower-middle income,Electoral Democracy,Eastern and South-Eastern Asia
+IND,India,Asia,Low income,Electoral Democracy,Central and Southern Asia
+IND,India,Asia,Lower-middle income,Electoral Democracy,Central and Southern Asia
+IRL,Ireland,Europe,High income,Liberal Democracy,Europe and Northern America
+IRN,"Iran, Islamic Rep.",Asia,Lower-middle income,Electoral Autocracy,Central and Southern Asia
+IRN,"Iran, Islamic Rep.",Asia,Upper-middle income,Electoral Autocracy,Central and Southern Asia
+IRQ,Iraq,Asia,Lower-middle income,Closed Autocracy,Northern Africa and Western Asia
+IRQ,Iraq,Asia,Lower-middle income,Electoral Autocracy,Northern Africa and Western Asia
+IRQ,Iraq,Asia,Upper-middle income,Electoral Autocracy,Northern Africa and Western Asia
+ISL,Iceland,Europe,High income,Liberal Democracy,Europe and Northern America
+ISR,Israel,Asia,High income,Liberal Democracy,Northern Africa and Western Asia
+ITA,Italy,Europe,High income,Liberal Democracy,Europe and Northern America
+JAM,Jamaica,North America,Lower-middle income,Electoral Democracy,Latin America and Caribbean
+JAM,Jamaica,North America,Upper-middle income,Electoral Democracy,Latin America and Caribbean
+JOR,Jordan,Asia,Lower-middle income,Closed Autocracy,Northern Africa and Western Asia
+JOR,Jordan,Asia,Upper-middle income,Closed Autocracy,Northern Africa and Western Asia
+JPN,Japan,Asia,High income,Liberal Democracy,Eastern and South-Eastern Asia
+KAZ,Kazakhstan,Asia,Lower-middle income,Electoral Autocracy,Central and Southern Asia
+KAZ,Kazakhstan,Asia,Upper-middle income,Electoral Autocracy,Central and Southern Asia
+KEN,Kenya,Africa,Low income,Electoral Autocracy,Sub-Saharan Africa
+KEN,Kenya,Africa,Lower-middle income,Electoral Democracy,Sub-Saharan Africa
+KEN,Kenya,Africa,Lower-middle income,Electoral Autocracy,Sub-Saharan Africa
+KGZ,Kyrgyz Republic,Asia,Low income,Electoral Autocracy,Central and Southern Asia
+KGZ,Kyrgyz Republic,Asia,Lower-middle income,Electoral Autocracy,Central and Southern Asia
+KHM,Cambodia,Asia,Low income,Electoral Autocracy,Eastern and South-Eastern Asia
+KHM,Cambodia,Asia,Lower-middle income,Electoral Autocracy,Eastern and South-Eastern Asia
+KOR,"Korea, Rep.",Asia,Upper-middle income,Liberal Democracy,Eastern and South-Eastern Asia
+KOR,"Korea, Rep.",Asia,High income,Liberal Democracy,Eastern and South-Eastern Asia
+KWT,Kuwait,Asia,High income,Closed Autocracy,Northern Africa and Western Asia
+LAO,Lao PDR,Asia,Low income,Closed Autocracy,Eastern and South-Eastern Asia
+LAO,Lao PDR,Asia,Lower-middle income,Closed Autocracy,Eastern and South-Eastern Asia
+LBN,Lebanon,Asia,Upper-middle income,Electoral Autocracy,Northern Africa and Western Asia
+LBN,Lebanon,Asia,Upper-middle income,Electoral Democracy,Northern Africa and Western Asia
+LBR,Liberia,Africa,Low income,Electoral Autocracy,Sub-Saharan Africa
+LBR,Liberia,Africa,Low income,Closed Autocracy,Sub-Saharan Africa
+LBR,Liberia,Africa,Low income,Electoral Democracy,Sub-Saharan Africa
+LCA,St. Lucia,North America,Upper-middle income,0,Latin America and Caribbean
+LKA,Sri Lanka,Asia,Lower-middle income,Electoral Democracy,Central and Southern Asia
+LKA,Sri Lanka,Asia,Lower-middle income,Electoral Autocracy,Central and Southern Asia
+LSO,Lesotho,Africa,Low income,Closed Autocracy,Sub-Saharan Africa
+LSO,Lesotho,Africa,Low income,Electoral Democracy,Sub-Saharan Africa
+LSO,Lesotho,Africa,Lower-middle income,Electoral Democracy,Sub-Saharan Africa
+LTU,Lithuania,Europe,Lower-middle income,Liberal Democracy,Europe and Northern America
+LTU,Lithuania,Europe,Upper-middle income,Liberal Democracy,Europe and Northern America
+LTU,Lithuania,Europe,High income,Liberal Democracy,Europe and Northern America
+LTU,Lithuania,Europe,High income,Electoral Democracy,Europe and Northern America
+LUX,Luxembourg,Europe,High income,Liberal Democracy,Europe and Northern America
+LVA,Latvia,Europe,Lower-middle income,Electoral Democracy,Europe and Northern America
+LVA,Latvia,Europe,Upper-middle income,Electoral Democracy,Europe and Northern America
+LVA,Latvia,Europe,Upper-middle income,Liberal Democracy,Europe and Northern America
+LVA,Latvia,Europe,High income,Liberal Democracy,Europe and Northern America
+LVA,Latvia,Europe,High income,Electoral Democracy,Europe and Northern America
+MAC,"Macao SAR, China",Asia,High income,0,Eastern and South-Eastern Asia
+MAR,Morocco,Africa,Lower-middle income,Closed Autocracy,Northern Africa and Western Asia
+MDA,Moldova,Europe,Low income,Electoral Democracy,Europe and Northern America
+MDA,Moldova,Europe,Lower-middle income,Electoral Autocracy,Europe and Northern America
+MDA,Moldova,Europe,Lower-middle income,Electoral Democracy,Europe and Northern America
+MDG,Madagascar,Africa,Low income,Electoral Democracy,Sub-Saharan Africa
+MDG,Madagascar,Africa,Low income,Electoral Autocracy,Sub-Saharan Africa
+MDG,Madagascar,Africa,Low income,Closed Autocracy,Sub-Saharan Africa
+MDV,Maldives,Asia,Lower-middle income,Closed Autocracy,Central and Southern Asia
+MDV,Maldives,Asia,Lower-middle income,Electoral Autocracy,Central and Southern Asia
+MDV,Maldives,Asia,Lower-middle income,Electoral Democracy,Central and Southern Asia
+MDV,Maldives,Asia,Upper-middle income,Electoral Democracy,Central and Southern Asia
+MDV,Maldives,Asia,Upper-middle income,Electoral Autocracy,Central and Southern Asia
+MEX,Mexico,North America,Upper-middle income,Electoral Democracy,Latin America and Caribbean
+MKD,North Macedonia,Europe,Lower-middle income,Electoral Autocracy,Europe and Northern America
+MKD,North Macedonia,Europe,Lower-middle income,Electoral Democracy,Europe and Northern America
+MKD,North Macedonia,Europe,Upper-middle income,Electoral Democracy,Europe and Northern America
+MKD,North Macedonia,Europe,Upper-middle income,Electoral Autocracy,Europe and Northern America
+MLI,Mali,Africa,Low income,Electoral Democracy,Sub-Saharan Africa
+MLI,Mali,Africa,Low income,Electoral Autocracy,Sub-Saharan Africa
+MLT,Malta,Europe,High income,Electoral Democracy,Europe and Northern America
+MLT,Malta,Europe,Upper-middle income,Electoral Democracy,Europe and Northern America
+MMR,Myanmar,Asia,Low income,Closed Autocracy,Eastern and South-Eastern Asia
+MMR,Myanmar,Asia,Low income,Electoral Autocracy,Eastern and South-Eastern Asia
+MMR,Myanmar,Asia,Lower-middle income,Electoral Autocracy,Eastern and South-Eastern Asia
+MNE,Montenegro,Europe,Lower-middle income,Electoral Autocracy,Europe and Northern America
+MNE,Montenegro,Europe,Lower-middle income,Electoral Democracy,Europe and Northern America
+MNE,Montenegro,Europe,Upper-middle income,Electoral Autocracy,Europe and Northern America
+MNE,Montenegro,Europe,Upper-middle income,Electoral Democracy,Europe and Northern America
+MNG,Mongolia,Asia,Low income,Electoral Democracy,Eastern and South-Eastern Asia
+MNG,Mongolia,Asia,Lower-middle income,Electoral Democracy,Eastern and South-Eastern Asia
+MNG,Mongolia,Asia,Upper-middle income,Electoral Democracy,Eastern and South-Eastern Asia
+MOZ,Mozambique,Africa,Low income,Electoral Autocracy,Sub-Saharan Africa
+MRT,Mauritania,Africa,Low income,Electoral Autocracy,Sub-Saharan Africa
+MRT,Mauritania,Africa,Low income,Closed Autocracy,Sub-Saharan Africa
+MRT,Mauritania,Africa,Lower-middle income,Electoral Autocracy,Sub-Saharan Africa
+MUS,Mauritius,Africa,Upper-middle income,Liberal Democracy,Sub-Saharan Africa
+MUS,Mauritius,Africa,Upper-middle income,Electoral Democracy,Sub-Saharan Africa
+MWI,Malawi,Africa,Low income,Electoral Autocracy,Sub-Saharan Africa
+MWI,Malawi,Africa,Low income,Electoral Democracy,Sub-Saharan Africa
+MYS,Malaysia,Asia,Upper-middle income,Electoral Autocracy,Eastern and South-Eastern Asia
+NAM,Namibia,Africa,Lower-middle income,Electoral Democracy,Sub-Saharan Africa
+NAM,Namibia,Africa,Upper-middle income,Electoral Democracy,Sub-Saharan Africa
+NER,Niger,Africa,Low income,Electoral Democracy,Sub-Saharan Africa
+NER,Niger,Africa,Low income,Electoral Autocracy,Sub-Saharan Africa
+NER,Niger,Africa,Low income,Closed Autocracy,Sub-Saharan Africa
+NGA,Nigeria,Africa,Low income,Electoral Autocracy,Sub-Saharan Africa
+NGA,Nigeria,Africa,Lower-middle income,Electoral Autocracy,Sub-Saharan Africa
+NGA,Nigeria,Africa,Lower-middle income,Electoral Democracy,Sub-Saharan Africa
+NIC,Nicaragua,North America,Low income,Electoral Democracy,Latin America and Caribbean
+NIC,Nicaragua,North America,Lower-middle income,Electoral Democracy,Latin America and Caribbean
+NIC,Nicaragua,North America,Lower-middle income,Electoral Autocracy,Latin America and Caribbean
+NLD,Netherlands,Europe,High income,Liberal Democracy,Europe and Northern America
+NOR,Norway,Europe,High income,Liberal Democracy,Europe and Northern America
+NPL,Nepal,Asia,Low income,Electoral Autocracy,Central and Southern Asia
+NPL,Nepal,Asia,Low income,Closed Autocracy,Central and Southern Asia
+NPL,Nepal,Asia,Low income,Electoral Democracy,Central and Southern Asia
+NZL,New Zealand,Oceania,High income,Liberal Democracy,Oceania
+OMN,Oman,Asia,Upper-middle income,Closed Autocracy,Northern Africa and Western Asia
+OMN,Oman,Asia,High income,Closed Autocracy,Northern Africa and Western Asia
+PAK,Pakistan,Asia,Low income,Closed Autocracy,Central and Southern Asia
+PAK,Pakistan,Asia,Low income,Electoral Autocracy,Central and Southern Asia
+PAK,Pakistan,Asia,Lower-middle income,Electoral Autocracy,Central and Southern Asia
+PAN,Panama,North America,Upper-middle income,Electoral Democracy,Latin America and Caribbean
+PER,Peru,South America,Lower-middle income,Electoral Autocracy,Latin America and Caribbean
+PER,Peru,South America,Lower-middle income,Electoral Democracy,Latin America and Caribbean
+PER,Peru,South America,Upper-middle income,Electoral Democracy,Latin America and Caribbean
+PHL,Philippines,Asia,Lower-middle income,Electoral Democracy,Eastern and South-Eastern Asia
+PHL,Philippines,Asia,Lower-middle income,Electoral Autocracy,Eastern and South-Eastern Asia
+POL,Poland,Europe,Upper-middle income,Liberal Democracy,Europe and Northern America
+POL,Poland,Europe,High income,Liberal Democracy,Europe and Northern America
+POL,Poland,Europe,High income,Electoral Democracy,Europe and Northern America
+PRK,"Korea, Dem. People's Rep.",Asia,Low income,Closed Autocracy,Eastern and South-Eastern Asia
+PRT,Portugal,Europe,High income,Liberal Democracy,Europe and Northern America
+PRY,Paraguay,South America,Lower-middle income,Electoral Democracy,Latin America and Caribbean
+PRY,Paraguay,South America,Upper-middle income,Electoral Democracy,Latin America and Caribbean
+PSE,West Bank and Gaza,Asia,Lower-middle income,0,Northern Africa and Western Asia
+QAT,Qatar,Asia,High income,Closed Autocracy,Northern Africa and Western Asia
+ROU,Romania,Europe,Lower-middle income,Electoral Democracy,Europe and Northern America
+ROU,Romania,Europe,Upper-middle income,Electoral Democracy,Europe and Northern America
+RUS,Russian Federation,Europe,Lower-middle income,Electoral Autocracy,Europe and Northern America
+RUS,Russian Federation,Europe,Upper-middle income,Electoral Autocracy,Europe and Northern America
+RUS,Russian Federation,Europe,High income,Electoral Autocracy,Europe and Northern America
+RWA,Rwanda,Africa,Low income,Closed Autocracy,Sub-Saharan Africa
+RWA,Rwanda,Africa,Low income,Electoral Autocracy,Sub-Saharan Africa
+SAU,Saudi Arabia,Asia,Upper-middle income,Closed Autocracy,Northern Africa and Western Asia
+SAU,Saudi Arabia,Asia,High income,Closed Autocracy,Northern Africa and Western Asia
+SEN,Senegal,Africa,Low income,Electoral Democracy,Sub-Saharan Africa
+SEN,Senegal,Africa,Lower-middle income,Electoral Democracy,Sub-Saharan Africa
+SGP,Singapore,Asia,High income,Electoral Autocracy,Eastern and South-Eastern Asia
+SLB,Solomon Islands,Oceania,Low income,Electoral Autocracy,Oceania
+SLB,Solomon Islands,Oceania,Low income,Electoral Democracy,Oceania
+SLB,Solomon Islands,Oceania,Lower-middle income,Electoral Democracy,Oceania
+SLE,Sierra Leone,Africa,Low income,Closed Autocracy,Sub-Saharan Africa
+SLE,Sierra Leone,Africa,Low income,Electoral Autocracy,Sub-Saharan Africa
+SLE,Sierra Leone,Africa,Low income,Electoral Democracy,Sub-Saharan Africa
+SLV,El Salvador,North America,Lower-middle income,Electoral Democracy,Latin America and Caribbean
+SRB,Serbia,Europe,Lower-middle income,Electoral Autocracy,Europe and Northern America
+SRB,Serbia,Europe,Lower-middle income,Electoral Democracy,Europe and Northern America
+SRB,Serbia,Europe,Upper-middle income,Electoral Democracy,Europe and Northern America
+SRB,Serbia,Europe,Upper-middle income,Electoral Autocracy,Europe and Northern America
+SUR,Suriname,South America,Lower-middle income,Electoral Democracy,Latin America and Caribbean
+SUR,Suriname,South America,Upper-middle income,Electoral Democracy,Latin America and Caribbean
+SVK,Slovak Republic,Europe,Upper-middle income,Liberal Democracy,Europe and Northern America
+SVK,Slovak Republic,Europe,High income,Liberal Democracy,Europe and Northern America
+SVK,Slovak Republic,Europe,High income,Electoral Democracy,Europe and Northern America
+SVN,Slovenia,Europe,High income,Liberal Democracy,Europe and Northern America
+SWE,Sweden,Europe,High income,Liberal Democracy,Europe and Northern America
+SWZ,Eswatini,Africa,Lower-middle income,Closed Autocracy,Sub-Saharan Africa
+SYC,Seychelles,Africa,Upper-middle income,Electoral Autocracy,Sub-Saharan Africa
+SYC,Seychelles,Africa,High income,Electoral Autocracy,Sub-Saharan Africa
+SYC,Seychelles,Africa,High income,Electoral Democracy,Sub-Saharan Africa
+SYR,Syrian Arab Republic,Asia,Lower-middle income,Electoral Autocracy,Northern Africa and Western Asia
+SYR,Syrian Arab Republic,Asia,Lower-middle income,Closed Autocracy,Northern Africa and Western Asia
+TCD,Chad,Africa,Low income,Electoral Autocracy,Sub-Saharan Africa
+TGO,Togo,Africa,Low income,Electoral Autocracy,Sub-Saharan Africa
+THA,Thailand,Asia,Lower-middle income,Electoral Democracy,Eastern and South-Eastern Asia
+THA,Thailand,Asia,Lower-middle income,Electoral Autocracy,Eastern and South-Eastern Asia
+THA,Thailand,Asia,Lower-middle income,Closed Autocracy,Eastern and South-Eastern Asia
+THA,Thailand,Asia,Upper-middle income,Electoral Autocracy,Eastern and South-Eastern Asia
+THA,Thailand,Asia,Upper-middle income,Electoral Democracy,Eastern and South-Eastern Asia
+THA,Thailand,Asia,Upper-middle income,Closed Autocracy,Eastern and South-Eastern Asia
+TJK,Tajikistan,Asia,Low income,Electoral Autocracy,Central and Southern Asia
+TJK,Tajikistan,Asia,Lower-middle income,Electoral Autocracy,Central and Southern Asia
+TLS,Timor-Leste,,,0,
+TLS,Timor-Leste,Asia,Low income,Electoral Democracy,Eastern and South-Eastern Asia
+TLS,Timor-Leste,Asia,Lower-middle income,Electoral Democracy,Eastern and South-Eastern Asia
+TON,Tonga,Oceania,Lower-middle income,0,Oceania
+TON,Tonga,Oceania,Upper-middle income,0,Oceania
+TTO,Trinidad and Tobago,North America,Upper-middle income,Electoral Democracy,Latin America and Caribbean
+TTO,Trinidad and Tobago,North America,High income,Electoral Democracy,Latin America and Caribbean
+TUN,Tunisia,Africa,Lower-middle income,Electoral Autocracy,Northern Africa and Western Asia
+TUN,Tunisia,Africa,Upper-middle income,Electoral Autocracy,Northern Africa and Western Asia
+TUN,Tunisia,Africa,Upper-middle income,Electoral Democracy,Northern Africa and Western Asia
+TUN,Tunisia,Africa,Lower-middle income,Electoral Democracy,Northern Africa and Western Asia
+TUR,Turkey,Asia,Upper-middle income,Electoral Democracy,Northern Africa and Western Asia
+TUR,Turkey,Asia,Lower-middle income,Electoral Democracy,Northern Africa and Western Asia
+TUR,Turkey,Asia,Upper-middle income,Electoral Autocracy,Northern Africa and Western Asia
+TZA,Tanzania,Africa,Low income,Electoral Democracy,Sub-Saharan Africa
+TZA,Tanzania,Africa,Low income,Electoral Autocracy,Sub-Saharan Africa
+UGA,Uganda,Africa,Low income,Electoral Autocracy,Sub-Saharan Africa
+UKR,Ukraine,Europe,Low income,Electoral Autocracy,Europe and Northern America
+UKR,Ukraine,Europe,Lower-middle income,Electoral Autocracy,Europe and Northern America
+UKR,Ukraine,Europe,Lower-middle income,Electoral Democracy,Europe and Northern America
+URY,Uruguay,South America,Upper-middle income,Liberal Democracy,Latin America and Caribbean
+URY,Uruguay,South America,High income,Liberal Democracy,Latin America and Caribbean
+USA,United States,North America,High income,Liberal Democracy,Europe and Northern America
+UZB,Uzbekistan,Asia,Low income,Electoral Autocracy,Central and Southern Asia
+UZB,Uzbekistan,Asia,Lower-middle income,Electoral Autocracy,Central and Southern Asia
+UZB,Uzbekistan,Asia,Lower-middle income,Closed Autocracy,Central and Southern Asia
+VCT,St. Vincent and the Grenadines,North America,Lower-middle income,0,Latin America and Caribbean
+VCT,St. Vincent and the Grenadines,North America,Upper-middle income,0,Latin America and Caribbean
+VEN,"Venezuela, RB",South America,Upper-middle income,Electoral Democracy,Latin America and Caribbean
+VEN,"Venezuela, RB",South America,Upper-middle income,Electoral Autocracy,Latin America and Caribbean
+VEN,"Venezuela, RB",South America,High income,Electoral Autocracy,Latin America and Caribbean
+VNM,Vietnam,Asia,Low income,Closed Autocracy,Eastern and South-Eastern Asia
+VNM,Vietnam,Asia,Lower-middle income,Closed Autocracy,Eastern and South-Eastern Asia
+VNM,Vietnam,Asia,Lower-middle income,Electoral Autocracy,Eastern and South-Eastern Asia
+VUT,Vanuatu,Oceania,Lower-middle income,Electoral Democracy,Oceania
+ZAF,South Africa,Africa,Upper-middle income,Liberal Democracy,Sub-Saharan Africa
+ZAF,South Africa,Africa,Lower-middle income,Liberal Democracy,Sub-Saharan Africa
+ZAF,South Africa,Africa,Upper-middle income,Electoral Democracy,Sub-Saharan Africa
+ZMB,Zambia,Africa,Low income,Electoral Democracy,Sub-Saharan Africa
+ZMB,Zambia,Africa,Lower-middle income,Electoral Democracy,Sub-Saharan Africa
+ZMB,Zambia,Africa,Lower-middle income,Electoral Autocracy,Sub-Saharan Africa
+ZWE,Zimbabwe,Africa,Low income,Electoral Autocracy,Sub-Saharan Africa
